@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Value: 1
+  Odds: 9.99
+  Description: MyText
+
+two:
+  Value: 1
+  Odds: 9.99
+  Description: MyText
